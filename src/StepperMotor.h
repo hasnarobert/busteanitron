@@ -1,4 +1,4 @@
-#ifndef STEPPER_MOTOTR_H
+#ifndef STEPPER_MOTOR_H
 #define STEPPER_MOTOR_H
 
 class StepperMotor {
